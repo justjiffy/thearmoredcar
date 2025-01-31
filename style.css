@@ -3,8 +3,10 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-img {
+iframe, img {
   width: 100%;
   max-width: 800px;
 }
+
+
   
