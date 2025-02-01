@@ -8,5 +8,21 @@ iframe, img {
   max-width: 800px;
 }
 
-
+footer {
+  background: black;
+  color: white;
+  width: 100%;
+}
   
+.arrow {
+  position: absolute;
+  font-size: 30px;
+  font-weight: bold;
+  background: white;
+  color: black;
+}
+
+.left {
+  left: 0;
+  top: 45%;
+}
